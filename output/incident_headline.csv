@@ -1,0 +1,2 @@
+incidents_total,incidents_labeled,labeled_pct,post_deployment_pct,pre_deployment_pct,post_deployment_n,pre_deployment_n,caused_by_ai_pct,caused_by_human_pct,intentional_pct,unintentional_pct,unmapped_subdomains
+1689,1496,88.57,97.59,1.8,1460,27,64.17,35.09,49.13,49.47,0

@@ -1,0 +1,12 @@
+control_family,share_pct,cumulative_pct,lifecycle,share_2023_2026_pct
+Misuse and abuse monitoring,37.77,37.77,Post-deployment,52.01
+Reliability testing and performance monitoring,20.39,58.16,Both,11.23
+Output accuracy controls and human review,13.1,71.26,Post-deployment,17.51
+Bias and fairness evaluation,10.16,81.42,Both,3.09
+Content safety filtering,6.08,87.5,Post-deployment,5.56
+Privacy protection,5.88,93.38,Both,4.74
+Human oversight and user guidance,2.81,96.19,Post-deployment,2.88
+Security testing and red-teaming,1.8,97.99,Both,1.85
+Impact assessment,1.4,99.4,Pre-deployment,0.82
+Transparency and documentation,0.33,99.73,Pre-deployment,0.0
+Accountability and governance structure,0.2,99.93,Pre-deployment,0.21

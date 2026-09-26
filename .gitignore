@@ -1,0 +1,4 @@
+data/raw/AIID_*
+data/processed/
+__pycache__/
+.pytest_cache/

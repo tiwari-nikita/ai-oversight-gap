@@ -1,0 +1,22 @@
+mit_subdomain,control_family,lifecycle,nist_ai_rmf
+"Fraud, scams, and targeted manipulation",Misuse and abuse monitoring,Post-deployment,MANAGE 4.1; GenAI Profile misuse
+"Disinformation, surveillance, and influence at scale",Misuse and abuse monitoring,Post-deployment,MANAGE 4.1; GenAI Profile information integrity
+"Cyberattacks, weapon development or use, and mass harm",Misuse and abuse monitoring,Post-deployment,MANAGE 4.1; GenAI Profile CBRN / cyber
+Lack of capability or robustness,Reliability testing and performance monitoring,Both,"MEASURE 2.4, 2.5"
+False or misleading information,Output accuracy controls and human review,Post-deployment,MEASURE 2.5; GenAI Profile confabulation
+Pollution of information ecosystem and loss of consensus reality,Output accuracy controls and human review,Post-deployment,GenAI Profile information integrity
+Unfair discrimination and misrepresentation,Bias and fairness evaluation,Both,MEASURE 2.11
+Unequal performance across groups,Bias and fairness evaluation,Both,MEASURE 2.11
+Exposure to toxic content,Content safety filtering,Post-deployment,MEASURE 2.6; GenAI Profile harmful content
+"Compromise of privacy by obtaining, leaking or correctly inferring sensitive information",Privacy protection,Both,MEASURE 2.10; GenAI Profile data privacy
+AI system security vulnerabilities and attacks,Security testing and red-teaming,Both,MEASURE 2.7
+Overreliance and unsafe use,Human oversight and user guidance,Post-deployment,GOVERN 3.2; MAP 3.5
+Loss of human agency and autonomy,Human oversight and user guidance,Post-deployment,GOVERN 3.2; MAP 3.5
+Lack of transparency or interpretability,Transparency and documentation,Pre-deployment,"MEASURE 2.8, 2.9"
+Governance failure,Accountability and governance structure,Pre-deployment,"GOVERN 1, 2"
+AI pursuing its own goals in conflict with human goals or values,Security testing and red-teaming,Pre-deployment,"MEASURE 2.6, 2.7"
+Increased inequality and decline in employment quality,Impact assessment,Pre-deployment,MAP 5.1
+Power centralization and unfair distribution of benefits,Impact assessment,Pre-deployment,MAP 5.1
+Economic and cultural devaluation of human effort,Impact assessment,Pre-deployment,MAP 5.1
+Competitive dynamics,Impact assessment,Pre-deployment,MAP 5.1
+Environmental harm,Impact assessment,Pre-deployment,MAP 5.1; MEASURE 2.12
