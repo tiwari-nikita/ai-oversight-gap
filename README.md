@@ -3,6 +3,7 @@
 **Companies are telling investors about AI. Are they telling them how it's governed, and is governance aimed at what actually goes wrong?** Every 10-K filed 2019 – Sept 2026, set against 1,689 documented AI incidents.
 
 ```bash
+pip install -r requirements.txt
 python verify.py
 ```
 
@@ -59,3 +60,7 @@ Python 3.10+, `pandas`, `numpy`, `matplotlib`, `openpyxl`.
 - Governance language is identified by exact phrases, so companies using other wording are missed.
 - 2026 runs to 26 Sept 2026.
 - The safeguard mapping is a judgement call, published so it can be challenged.
+
+## License
+
+Code is released under the MIT License (see [LICENSE](LICENSE)). The data belongs to its original publishers and keeps its original license; see the sources above.
