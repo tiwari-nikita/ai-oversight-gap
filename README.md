@@ -1,5 +1,14 @@
 # The AI Oversight Gap
 
+> **In plain English.** Every US public company files an annual report (a 10-K) with the SEC. I searched every one filed from 2019 to September 2026, asking two things: how often companies mention AI, and how often they describe how they keep it under control. Then I compared that with 1,689 real AI failures and misuses recorded in the AI Incident Database.
+>
+> - In 2025, about half of annual reports mentioned AI, but fewer than 2 in 100 described governing it.
+> - 98% of the documented harm happened after an AI system was already in use, not while it was being built.
+> - Since 2023, deliberate misuse has been the main cause, well ahead of systems simply malfunctioning.
+> - Three kinds of safeguard would cover about 71% of the documented harm: watching for misuse, testing and monitoring reliability, and checking outputs for accuracy.
+>
+> Every number here is checked by an automated test, and one command rebuilds it all from the original data. The technical version follows.
+
 **Companies are telling investors about AI. Are they telling them how it's governed, and is governance aimed at what actually goes wrong?** Every 10-K filed 2019 – Sept 2026, set against 1,689 documented AI incidents.
 
 ```bash
